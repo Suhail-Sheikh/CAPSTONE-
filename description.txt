@@ -1,0 +1,9 @@
+1. All the files need to put in here
+2. Things done:
+    i. HLD - models like Transformers, Attention models etc
+    ii. Dataset Collection - done + ongoing
+3. Things to be done:
+  i. Data Augmentation  using GAN + Authentication with radiologist for correctness
+  ii. Feature Extraction + other techniques for image enhancement + cleaning / preprocessing etc....
+  iii. Model building for multiclass classification 
+  
